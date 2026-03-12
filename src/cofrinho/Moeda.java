@@ -8,7 +8,7 @@ public abstract class Moeda {
 	
 	
 	public Moeda(double valor) {
-		this.valor = valor;
+		this.valor = valor; // inicializa o valor ao criar uma moeda
 	}
 	
 	public double converter() {
