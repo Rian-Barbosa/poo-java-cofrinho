@@ -1,10 +1,9 @@
 # 💰 Cofrinho em Java (Console)
 
-Aplicação simples desenvolvida em Java que simula um cofrinho no terminal, permitindo armazenar moedas de diferentes tipos e calcular o valor total convertido.
-
+Trabalho desenvolvido para a disciplina de Programação Orientada a Objetos. Simulação de cofre digital, rondando no console, que armazena diferentes tipos de moeda e calcula seus valores.
 ## 📌 Descrição
 
-O sistema funciona como um cofrinho digital onde é possível adicionar moedas de diferentes moedas (Real, Dólar e Euro), remover valores e visualizar o total convertido para uma moeda padrão.
+O sistema funciona como um cofrinho digital onde é possível adicionar diferentes moedas (Real, Dólar e Euro), remover valores e visualizar o total convertido para uma moeda padrão.
 
 O projeto foi desenvolvido com foco em praticar **Programação Orientada a Objetos (POO)** em Java.
 
@@ -62,7 +61,7 @@ Este projeto tem como objetivo reforçar conceitos como:
 ### Passos
 
 #### Clone o repositório
-`git clone https://github.com/seu-usuario/cofrinho-java.git`
+`git clone https://github.com/rian-barbosa/poo-java-cofrinho.git`
 
 #### Entre na pasta src
 `cd cofrinho-java/src`
