@@ -107,8 +107,8 @@ public class Principal {
 			System.out.println("0-Encerrar");
 			System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=");
 			opcao=teclado.nextInt();
+			
 		}
-		
-	}
+		teclado.close();	}
 	
 }

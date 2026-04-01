@@ -1,7 +1,5 @@
 package cofrinho;
 
-import java.util.Objects;
-
 public abstract class Moeda {
 
 	double valor;
